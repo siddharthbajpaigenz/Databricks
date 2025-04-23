@@ -7,8 +7,6 @@ This guide provides a beginner-friendly introduction to key data engineering con
 
 ## 📊 What is Databricks?
 
-![Databricks Logo](https://i.imgur.com/5TliR0J.png)
-
 **Databricks** is a cloud-based data engineering platform that combines the best of data warehouses and data lakes into a "lakehouse" architecture. It's designed to help teams collaborate on processing and analyzing large amounts of data.
 
 ### 🌟 Key Features of Databricks:
