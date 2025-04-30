@@ -1,4 +1,3 @@
-```markdown
 # Automated ETL/Data Testing Pipeline in Azure  
 ![Azure Pipeline Logo](https://dummyimage.com/1200x400/0078d4/ffffff&text=Automate+Data+Testing+in+Azure)  
 
