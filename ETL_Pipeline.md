@@ -175,15 +175,3 @@ report["Last Updated By"] = "alice@company.com"
 3. **Learn More**: [Microsoft Azure Docs](https://learn.microsoft.com/azure/data-factory/)  
 
 --- 
-
-**Happy Automating!** 🚀  
-``` 
-
----
-
-**How to Use This Guide**:  
-1. Replace placeholder values (e.g., `your-key-here`).  
-2. Add your own test cases.  
-3. Customize the Trackspace API endpoint.  
-
-This README covers everything from setup to error tracking in simple English. For advanced features, refer to the [Azure documentation](https://learn.microsoft.com).
